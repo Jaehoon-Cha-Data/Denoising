@@ -1,6 +1,13 @@
 # Denoising
  denoising with clean 2 clean, noise 2 clean, and noise 2 noise
 
+# MNIST DATASET
+
+| Hyper-parameters  | Values |
+| ------------- | ------------- |
+| Architecture  | 500-500-20-500-500  |
+| Learning rate  | 0.0005  |
+| Epochs  | 400  |
 
 Train model I:clean O:clean and Test model with clean and corrupted images
 <p float="left">
