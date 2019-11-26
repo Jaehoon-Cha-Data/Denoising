@@ -4,5 +4,5 @@
 
 Train model I:clean O:clean and Test model with clean and corrupted images
 <p float="left">
-<img src="https://user-images.githubusercontent.com/55184529/69618223-6c061000-1031-11ea-9c63-b5b18b5ad090.png"  width="450" height="400"></p>
+<img src="https://user-images.githubusercontent.com/55184529/69618223-6c061000-1031-11ea-9c63-b5b18b5ad090.png"  width="500" height="450"></p>
 
