@@ -1,5 +1,5 @@
 # Denoising
- denoising with clean 2 clean, noise 2 clean, and noise 2 noise
+ denoising with clean 2 clean, noise 2 clean, and noise 2 noise TF2
 
 # MNIST DATASET
 
